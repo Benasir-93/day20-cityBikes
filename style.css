@@ -1,0 +1,23 @@
+body{
+    padding-top: 30px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-image: linear-gradient(to left,rgb(238, 182, 182),rgb(195, 195, 240),rgb(241, 241, 215));
+}
+.container{
+    height: 100px;
+    width: 100%;
+    background-color: rgb(78, 145, 122);
+    margin-bottom: 20px;
+    border-radius: 30px;
+
+}
+h1{
+    text-align: center;
+    padding: 20px;
+    color: rgb(214, 212, 212);
+    font-weight:bold;
+}
+
